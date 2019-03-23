@@ -1,0 +1,27 @@
+#third {
+    color: red;
+}
+.ko {
+    color: red;
+}
+[target=_blank] {
+    border: 2px dashed red;
+}
+p::first-letter {
+    font-size: 20px;
+}
+p::first-line {
+    color: yellow;
+}
+a:link {
+    color: deeppink;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: blue;
+}
+a:active {
+    color: darkgreen;
+}
